@@ -16,5 +16,6 @@
     "@realsee/five": "latest",
     "@realsee/open-works": "latest",
     "three": "0.117.1"
-  }
+  },
+  "license": "PolyForm-Noncommercial-1.0.0"
 }
